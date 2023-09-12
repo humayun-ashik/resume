@@ -1,15 +1,15 @@
-title: Tahanima Chowdhury
-description: Software Engineer, QA @ Therap (BD) Ltd.
-baseurl: "/remple/"
+title: Humayun Ahmed Ashik
+description: Sr. Software Engineer in Test @ CHEQ Inc.
+baseurl: "/resume/"
 url: ""
 photo_url: "my-photo.jpg"
 
 # This is an optional section
 # You can skip filling in one or more of the items in this section
-email: "tahanimachowdhury@gmail.com"
-linkedin: "http://linkedin.com/in/tahanima-chowdhury"
-github: "https://github.com/Tahanima"
-website: "http://tahanima.github.io/"
+email: "humayunahmedashik@gmail.com"
+linkedin: "https://www.linkedin.com/in/humayun-ashik/"
+github: "https://github.com/humayun-ashik"
+website: "https://humayun-ashik.github.io/"
 medium: "https://tahanima.medium.com/"
 
 markdown: kramdown
