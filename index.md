@@ -8,7 +8,7 @@ title: Resume
 ---
 
 ### CHEQ Inc.  
-*** Sr. Software Engineer in Test(Jan 2023 - Present)*** &middot;	***Full-time***   
+***Sr. Software Engineer in Test(Jan 2023 - Present)*** &middot;	***Full-time***   
 
 * Attending spec review meeting with the product team to clarify requirement, discuss and understand acceptance criteria.
 * Manage and execute the test process, develop appropriate test plan and test cases. 
