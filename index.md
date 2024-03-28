@@ -42,7 +42,7 @@ title: Resume
   - **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
 * **[DFS Portal Automation](https://github.com/humayun-ashik/mbl-system-portal-regression):** 450 test cases automated
   - **Tools** &#124; **Technologies:** Selenium WebDriver, Selenium Grid, Python, Git
-
+<br />
 ---
 ## EXPERIENCE
 ---
@@ -63,19 +63,16 @@ title: Resume
 ### Rajshahi University Of Engineering & Technology 
 *Bachelor of Science in Computer Science and Engineering (Apr 2014 - Nov 2018)*  
 CGPA: **3.11** (out of **4.00**)
-
+<br />
 ---
 ## CERTIFICATES
 ---
 * [Certified Scrum Developer](https://certification.scrumalliance.org/accounts/1483146-humayun-ahmed-ashik/certifications/1734209-csd) - By ScrumAlliance
 * [Continuous Delivery & DevOps](https://www.coursera.org/account/accomplishments/certificate/7W8GAF8R5L7X) - By Coursera
-
+<br />
 ---
 ## BLOGS
 ---
 * [Banking App Load Testing](https://fintechbd.com/quality-assurance/)
 * [Frequently Used Unix Commands for Software Tester](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester)
 * [WEB SCRAPING MADE EASY WITH SCRAPY](https://automation-alchemist.blogspot.com/2023/09/web-scraping-made-easy-with-scrapy.html)
-
-
-
