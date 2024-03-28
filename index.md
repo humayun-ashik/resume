@@ -19,8 +19,6 @@ title: Resume
 * Take part in hiring for QA competency in CHEQ Inc.
 * Log monitoring using Grafana LOKI
 
-<br />
-
 ---
 ## SKILLS
 ---
@@ -54,9 +52,8 @@ title: Resume
 ### Kona Software Lab Ltd.     
 ***SQA Engineer (July 2019 – Dec 2022)*** &middot;	***Full-time***  
 - Banking and Fintech Domain
-
+- 
 <br />
-
 ---
 ## EDUCATION
 ---
@@ -64,12 +61,12 @@ title: Resume
 *Bachelor of Science in Computer Science and Engineering (Apr 2014 - Nov 2018)*  
 CGPA: **3.11** (out of **4.00**)
 
-<br /> 
 ---
 ## CERTIFICATES
 ---
 * [Certified Scrum Developer](https://certification.scrumalliance.org/accounts/1483146-humayun-ahmed-ashik/certifications/1734209-csd) - By ScrumAlliance
 * [Continuous Delivery & DevOps](https://www.coursera.org/account/accomplishments/certificate/7W8GAF8R5L7X) - By Coursera
+
 ---
 ## BLOGS
 ---
