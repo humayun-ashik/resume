@@ -19,14 +19,13 @@ title: Resume
 * Take part in hiring for QA competency in CHEQ Inc.
 * Log monitoring using Grafana LOKI
 
-<br /> <br />
+<br />
 
 ---
 ## SKILLS
 ---
 
-- **Testing Methodologies:** Functional, Regression, Performance
-- **Programming Languages:**  Java, Python, JavaScript
+- **Coding Skills:**  Java, Python, JavaScript, SQL
 - **Test Automation Frameworks:** Selenium, WebdriverIO, REST Assured
 - **API Testing:** Postman
 - **CI/CD Integration:** Jenkins, GitHub Actions
@@ -34,7 +33,6 @@ title: Resume
 - **Performance Testing:** JMeter
 - **Code Management:** Git, Maven, Gradle, npm
 - **Test Management Tools:** Jira, TestRail
-- **Communication and Collaboration**
 
 ---
 ## EXPERIENCE
@@ -42,11 +40,11 @@ title: Resume
 
 ### CHEQ Inc.  
 ***Sr. Software Engineer in Test(Jan 2023 - Present)*** &middot;	***Full-time***   
-- Banking and Finance Domain 
+- Payment Domain 
 
 ### Kona Software Lab Ltd.     
 ***SQA Engineer (July 2019 – Dec 2022)*** &middot;	***Full-time***  
-- Banking and Finance Domain
+- Banking and Fintech Domain
 
 <br />
 
