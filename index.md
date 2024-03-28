@@ -19,7 +19,6 @@ title: Resume
 * Take part in hiring for QA competency in CHEQ Inc.
 * Log monitoring using Grafana LOKI
 
-<br />
 
 ---
 ## SKILLS
