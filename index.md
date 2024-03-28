@@ -29,6 +29,8 @@ title: Resume
 - **Agile Methodologies:** Scrum, Kanban
 - **Code Management:** Git, Maven, Gradle, npm
 - **Test Management Tools:** Jira, TestRail
+- 
+<br />
 
 ---
 ## PROJECT
@@ -52,8 +54,6 @@ title: Resume
 ### Kona Software Lab Ltd.     
 ***SQA Engineer (July 2019 – Dec 2022)*** &middot;	***Full-time***  
 - Banking and Fintech Domain
-- 
-<br />
 ---
 ## EDUCATION
 ---
