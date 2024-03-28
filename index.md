@@ -18,8 +18,7 @@ title: Resume
 * Strong experience in test automation script development for UI, API and Performance.
 * Take part in hiring for QA competency in CHEQ Inc.
 * Log monitoring using Grafana LOKI
-
-
+</br>
 ---
 ## SKILLS
 ---
@@ -69,15 +68,6 @@ CGPA: **3.11** (out of **4.00**)
 * **[DFS Portal Automation](https://github.com/humayun-ashik/mbl-system-portal-regression):** 450 test cases automated
   - **Tools** &#124; **Technologies:** Selenium WebDriver, Selenium Grid, Python, Git
 
-<br />
-
-<!--
-## HONORS & ACHIEVEMENTS
----
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna. 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent massa nisi, venenatis sit amet tortor efficitur, scelerisque condimentum magna.
-<br /> -->
 
 
 
