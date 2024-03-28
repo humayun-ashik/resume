@@ -26,13 +26,22 @@ title: Resume
 ---
 
 - **Coding Skills:**  Java, Python, JavaScript, SQL
-- **Test Automation Frameworks:** Selenium, WebdriverIO, REST Assured
-- **API Testing:** Postman
+- **Test Automation Frameworks & Tools:** Selenium, WebdriverIO, REST Assured, JMeter, Postman
 - **CI/CD Integration:** Jenkins, GitHub Actions
 - **Agile Methodologies:** Scrum, Kanban
-- **Performance Testing:** JMeter
 - **Code Management:** Git, Maven, Gradle, npm
 - **Test Management Tools:** Jira, TestRail
+
+---
+## PROJECT
+---
+* **[Banking App Load Testing]()**
+  - Test script was prepared using Jmeter and executed on distributed server.
+  - Monitoring, Analysis, Debugging & Optimization with various APMs.
+* **[Regression Test Automation of web portal](https://github.com/humayun-ashik/mbl-system-portal-regression):** 80 test cases automated
+  - **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
+* **[DFS Portal Automation](https://github.com/humayun-ashik/mbl-system-portal-regression):** 450 test cases automated
+  - **Tools** &#124; **Technologies:** Selenium WebDriver, Selenium Grid, Python, Git
 
 ---
 ## EXPERIENCE
@@ -56,14 +65,17 @@ title: Resume
 CGPA: **3.11** (out of **4.00**)
 
 <br /> 
+---
+## CERTIFICATES
+---
+* [Certified Scrum Developer](https://certification.scrumalliance.org/accounts/1483146-humayun-ahmed-ashik/certifications/1734209-csd) - By ScrumAlliance
+* [Continuous Delivery & DevOps](https://www.coursera.org/account/accomplishments/certificate/7W8GAF8R5L7X) - By Coursera
+---
+## BLOGS
+---
+* [Banking App Load Testing](https://fintechbd.com/quality-assurance/)
+* [Frequently Used Unix Commands for Software Tester](https://humayun-ashik.hashnode.dev/frequently-used-unix-commands-for-software-tester)
+* [WEB SCRAPING MADE EASY WITH SCRAPY](https://automation-alchemist.blogspot.com/2023/09/web-scraping-made-easy-with-scrapy.html)
 
----
-## PROJECT
----
-* **[Banking App Load Testing]()**
-  - Test script was prepared using Jmeter and executed on distributed server.
-  - Monitoring, Analysis, Debugging & Optimization with various APMs.
-* **[Regression Test Automation of web portal](https://github.com/humayun-ashik/mbl-system-portal-regression):** 80 test cases automated  
-  - **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
-* **[DFS Portal Automation](https://github.com/humayun-ashik/mbl-system-portal-regression):** 450 test cases automated
-  - **Tools** &#124; **Technologies:** Selenium WebDriver, Selenium Grid, Python, Git
+
+
