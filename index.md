@@ -4,26 +4,48 @@ title: Resume
 ---
 
 ---
+## PROFILE HIGHLIGHTS
+---
+* **Strong structured testing knowledge** and thorough understanding of quality assurance testing methodologies.
+* Drove simplification by developing **Automation Framework** for the team using POM pattern using **Selenium WebDriver with Java**
+* Experience in **CI/CD** pipelines using Docker, Jenkins, Git.
+* Extensive experience and knowledge in **Testing lifecycle and core testing techniques**, **Requirement analysis**,
+**Test Planning**, **Test Estimation**, **Test case writing and review**, **Test Execution**, **Test reporting** and **Defect Management**.
+* Owned the **on-time delivery**, **risk identification and mitigation planning** for the entire cycle of the program.
+* **Resource forecasting and planning** and experience of using test management tools to manage testing activities.
+* **Mentor team** on automation script development, conducting onboarding sessions for new joiners.
+* Excellent **database  and query skills**.
+* Strong experience in test automation script development for UI, API and Performance.
+* Take part in hiring for QA competency in CHEQ Inc.
+* Log monitoring using Grafana LOKI
+
+
+---
+## SKILLS
+---
+
+- Testing Methodologies: Functional, Regression, Performance
+- Programming Languages:  Java, Python, JavaScript
+- Test Automation Frameworks: Selenium, WebdriverIO, REST Assured
+- API Testing: Postman
+- CI/CD Integration: Jenkins, GitHub Actions
+- Agile Methodologies: Scrum, Kanban
+- Performance Testing: JMeter
+- Code Management; Git, Maven, Gradle, npm
+- Test Management Tools : Jira, TestRail
+- Communication and Collaboration
+
+---
 ## EXPERIENCE
 ---
 
 ### CHEQ Inc.  
 ***Sr. Software Engineer in Test(Jan 2023 - Present)*** &middot;	***Full-time***   
-
-* Attending spec review meeting with the product team to clarify requirement, discuss and understand acceptance criteria.
-* Manage and execute the test process, develop appropriate test plan and test cases. 
-* Integration testing with third party platforms like Adyen, loyalty programs, feature flag management.
-* Filtered test cases for the automation testing, write automation scripts using WebdriverIO, Appium.
-* Create and execute SQL queries for data validation, log analyzing using Grafana.
+- Banking and Finance Domain 
 
 ### Kona Software Lab Ltd.     
 ***SQA Engineer (July 2019 – Dec 2022)*** &middot;	***Full-time***  
-* Actively worked in an agile software development environment which utilized the Scrum process.
-* Performed web portal automation testing using Selenium WebDriver which utilizes POM design pattern, Maven, TestNG etc.
-* Requirement analysis, design test scenarios and maintain test cases in TestRail.
-* Prepare test plan and test time estimation for better test status visibility.
-* Perform functional and exploratory testing on new feature.
-* Logging and tracking bug through JIRA.
+- Banking and Finance Domain
 
 <br />
 
@@ -40,7 +62,12 @@ CGPA: **3.11** (out of **4.00**)
 ## PROJECT
 ---
 * **[Banking App Load Testing]():** Ready to use UI Test Automation Architecture  
-  **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
+  - Test script was prepared using Jmeter and executed on distributed server.
+  - Monitoring, Analysis, Debugging & Optimization with various APMs.
+* **[Regression Test Automation of web portal](https://github.com/humayun-ashik/mbl-system-portal-regression):** 80 test cases automated  
+  - **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
+* **[DFS Portal Automation](https://github.com/humayun-ashik/mbl-system-portal-regression):** 450 test cases automated
+  - **Tools** &#124; **Technologies:** Selenium WebDriver, Selenium Grid, Python, Git
 
 <br />
 
@@ -53,8 +80,4 @@ CGPA: **3.11** (out of **4.00**)
 <br /> -->
 
 
----
-## SKILLS  
----
-* **Languages:** Java, Python, Javascript, SQL, Shell Scripting
-* **Tools** &#124; **Technologies:** Selenium WebDriver, Maven, TestNG, WebDriverIO, Mocha, Rest Assured, Postman Git, JIRA, TestRail
+
