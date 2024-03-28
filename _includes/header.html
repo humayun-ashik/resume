@@ -7,6 +7,7 @@
                 <img class ="photo" src="{{ site.photo_url }}">
                 <div class="info-remple">
                     <p class="title-remple">{{ site.title | escape }}</p>
+                    <p class="info-remple">{{ site.description | escape }}</p>
                     <div class="contact">
                         {% if site.email %}
                             <a href="mailto:{{ site.email }}"><i class="fa fa-envelope fa-lg"></i></a>
