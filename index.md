@@ -60,14 +60,10 @@ CGPA: **3.11** (out of **4.00**)
 ---
 ## PROJECT
 ---
-* **[Banking App Load Testing]():** Ready to use UI Test Automation Architecture  
+* **[Banking App Load Testing]()**
   - Test script was prepared using Jmeter and executed on distributed server.
   - Monitoring, Analysis, Debugging & Optimization with various APMs.
 * **[Regression Test Automation of web portal](https://github.com/humayun-ashik/mbl-system-portal-regression):** 80 test cases automated  
   - **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
 * **[DFS Portal Automation](https://github.com/humayun-ashik/mbl-system-portal-regression):** 450 test cases automated
   - **Tools** &#124; **Technologies:** Selenium WebDriver, Selenium Grid, Python, Git
-
-
-
-
