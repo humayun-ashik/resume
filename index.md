@@ -18,21 +18,23 @@ title: Resume
 * Strong experience in test automation script development for UI, API and Performance.
 * Take part in hiring for QA competency in CHEQ Inc.
 * Log monitoring using Grafana LOKI
-</br>
+
+<br /> <br />
+
 ---
 ## SKILLS
 ---
 
-- Testing Methodologies: Functional, Regression, Performance
-- Programming Languages:  Java, Python, JavaScript
-- Test Automation Frameworks: Selenium, WebdriverIO, REST Assured
-- API Testing: Postman
-- CI/CD Integration: Jenkins, GitHub Actions
-- Agile Methodologies: Scrum, Kanban
-- Performance Testing: JMeter
-- Code Management; Git, Maven, Gradle, npm
-- Test Management Tools : Jira, TestRail
-- Communication and Collaboration
+- **Testing Methodologies:** Functional, Regression, Performance
+- **Programming Languages:**  Java, Python, JavaScript
+- **Test Automation Frameworks:** Selenium, WebdriverIO, REST Assured
+- **API Testing:** Postman
+- **CI/CD Integration:** Jenkins, GitHub Actions
+- **Agile Methodologies:** Scrum, Kanban
+- **Performance Testing:** JMeter
+- **Code Management:** Git, Maven, Gradle, npm
+- **Test Management Tools:** Jira, TestRail
+- **Communication and Collaboration**
 
 ---
 ## EXPERIENCE
@@ -55,7 +57,7 @@ title: Resume
 *Bachelor of Science in Computer Science and Engineering (Apr 2014 - Nov 2018)*  
 CGPA: **3.11** (out of **4.00**)
 
-<br />
+<br /> 
 
 ---
 ## PROJECT
