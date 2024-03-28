@@ -19,6 +19,8 @@ title: Resume
 * Take part in hiring for QA competency in CHEQ Inc.
 * Log monitoring using Grafana LOKI
 
+<br />
+
 ---
 ## SKILLS
 ---
@@ -42,7 +44,9 @@ title: Resume
   - **Tools** &#124; **Technologies:** Java, Selenium WebDriver, TestNG, AssertJ, EventReports, JavaFaker, Git
 * **[DFS Portal Automation](https://github.com/humayun-ashik/mbl-system-portal-regression):** 450 test cases automated
   - **Tools** &#124; **Technologies:** Selenium WebDriver, Selenium Grid, Python, Git
+  
 <br />
+
 ---
 ## EXPERIENCE
 ---
@@ -63,13 +67,17 @@ title: Resume
 ### Rajshahi University Of Engineering & Technology 
 *Bachelor of Science in Computer Science and Engineering (Apr 2014 - Nov 2018)*  
 CGPA: **3.11** (out of **4.00**)
+
 <br />
+
 ---
 ## CERTIFICATES
 ---
 * [Certified Scrum Developer](https://certification.scrumalliance.org/accounts/1483146-humayun-ahmed-ashik/certifications/1734209-csd) - By ScrumAlliance
 * [Continuous Delivery & DevOps](https://www.coursera.org/account/accomplishments/certificate/7W8GAF8R5L7X) - By Coursera
+
 <br />
+
 ---
 ## BLOGS
 ---
